@@ -8,7 +8,7 @@ You need to download the '[FPTestcert2_20150818_102329.pfx]' file from BandID an
 #### Run the example for Authenticate
 ```sh
 npm install
-node node example/auth.js
+node example/auth.js
 ```
 
 ## Usage
