@@ -5,9 +5,10 @@ A test project to connect to Swedish BankID
 Read the PDF over at [BankID] on how to setup a test account.
 You need to download the '[FPTestcert2_20150818_102329.pfx]' file from BandID and add it to the project.
 
+#### Run the example for Authenticate
 ```sh
 npm install
-npm start
+node node example/auth.js
 ```
 
 ## Usage
