@@ -1,23 +1,25 @@
 {
   "name": "bankid",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Add connection to Swedish BankID",
+  "main": "BankID.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krister-Johansson/BankID.git"
+  },
+  "keywords": [
+    "BankID"
+  ],
+  "author": "Krister Johansson <krister.johansson86@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krister-Johansson/BankID/issues"
+  },
+  "homepage": "https://github.com/Krister-Johansson/BankID#readme",
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "connect-ensure-login": "^0.1.1",
-    "cookie-parser": "^1.4.3",
-    "debug": "^2.6.8",
-    "dotenv": "^4.0.0",
-    "express": "^4.15.3",
-    "express-session": "^1.15.3",
-    "jsonwebtoken": "^7.4.1",
-    "jwks-rsa": "^1.2.0",
-    "morgan": "^1.8.2",
-    "passport": "^0.3.2",
-    "passport-openidconnect": "0.0.2",
-    "serve-favicon": "^2.4.3"
+    "soap": "^0.19.2"
   }
 }
