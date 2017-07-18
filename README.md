@@ -1,6 +1,6 @@
 # BankID
 A test project to connect to Swedish BankID
-----
+
 ## Installation
 Read the PDF over at [BankID] on how to setup a test account.
 
@@ -8,10 +8,10 @@ Read the PDF over at [BankID] on how to setup a test account.
 npm install
 npm start
 ```
-----
+
 ## Usage
 TODO: Write usage instructions
-----
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -21,12 +21,12 @@ TODO: Write usage instructions
 
 ## History
 I was bored, okay!
-----
+
 ## Credits
 kudos to [Wopify/node-bankid]
-----
+
 ## License
 MIT
-----
+
 [BankID]: <https://www.bankid.com/assets/bankid/rp/bankid-relying-party-guidelines-v2.15.pdf>
 [Wopify/node-bankid]: <https://github.com/Wopify/node-bankid>
