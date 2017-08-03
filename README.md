@@ -1,6 +1,8 @@
 # BankID
 A test project to connect to Swedish BankID
 
+[![gitcheese.com](https://s3.amazonaws.com/gitcheese-ui-master/images/badge.svg)](https://www.gitcheese.com/donate/users/24939000/repos/96466438)
+
 ## Installation
 Read the PDF over at [BankID] on how to setup a test account.
 You need to download the '[FPTestcert2_20150818_102329.pfx]' file from BandID and add it to the project.
