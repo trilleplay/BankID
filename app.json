@@ -1,0 +1,7 @@
+{
+  "name": "BankID Authentication Sample",
+  "description": "A simple test of the BankID Authentication protocol.",
+  "repository": "https://github.com/trilleplay/BankID/",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
